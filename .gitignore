@@ -1,0 +1,9 @@
+/train_images
+/test_images
+/Detect-and-localize-manufacturing-defects-from-images
+/asset
+/__pycache__
+/.ipynb_checkpoints
+inception-weights.hdf5
+resnet-weights.hdf5
+resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
